@@ -33,3 +33,12 @@ nosetests.xml
 .mr.developer.cfg
 .project
 .pydevproject
+
+# Others
+*.swp
+mmkeys.so
+sonata/sonata
+mo/
+tags
+TAGS
+cscope*
